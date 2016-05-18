@@ -1,7 +1,8 @@
 abcdefgh
 
-<<<<<<< Updated upstream
+
 1234546
-=======
+
 xyzab1234
->>>>>>> Stashed changes
+
+all new try again
